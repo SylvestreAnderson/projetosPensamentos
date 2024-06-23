@@ -1,0 +1,2 @@
+# projetosPensamentos
+estudo
